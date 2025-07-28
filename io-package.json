@@ -1,0 +1,19 @@
+{
+  "common": {
+    "name": "stoppuhr",
+    "version": "0.1.0",
+    "title": "Stoppuhr Adapter",
+    "desc": "Adapter zur Anzeige und Speicherung von Messdaten einer Stoppuhr",
+    "platform": "Javascript/Node.js",
+    "mode": "daemon",
+    "authors": ["Du <du@example.com>"],
+    "license": "MIT",
+    "enabled": true,
+    "extIcon": "",
+    "keywords": ["stoppuhr", "timer", "geschwindigkeit"],
+    "main": "main.js",
+    "type": "general"
+  },
+  "native": {},
+  "objects": []
+}
